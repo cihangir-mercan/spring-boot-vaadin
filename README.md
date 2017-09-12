@@ -1,8 +1,9 @@
 vaadin-spring-boot
 ==============
 
-An application that uses a Vaadin based UI on a Spring Data JPA based backend. Demo: http://46.101.243.149/spring-boot-vaadin
+An application that uses a Vaadin based UI on a Spring Data JPA based backend. Demo: http://46.101.243.149/spring-boot-vaadin.
 
+100% pure Java. 
 
 Workflow
 ========
