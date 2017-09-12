@@ -1,7 +1,7 @@
 vaadin-spring-boot
 ==============
 
-Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
+An application that uses a Vaadin based UI on a Spring Data JPA based backend. Demo: http://46.101.243.149/spring-boot-vaadin
 
 
 Workflow
